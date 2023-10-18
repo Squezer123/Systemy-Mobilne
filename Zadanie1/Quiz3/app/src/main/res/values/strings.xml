@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">True</string>
+    <string name="button_false">True</string>
+    <string name="button_next">Next</string>
+
+    <string name="result_message">You got %1$d out of %2$d correct answers</string>
+    <string name="final_result_message">Final Result: %1$d out of %2$d correct answers</string>
+    <string name="correct_answer">Dobrze</string>
+    <string name="wrong_answer">Zle</string>
+    <string name="q_moon">Czy księżyc jest źródłem światła?</string>
+    <string name="q_wenus">Czy Wenus jest bliżej Słońca niż Ziemia?</string>
+    <string name="q_water">Czy woda wrze w temperaturze 100°C na poziomie morza?</string>
+    <string name="q_japan">Czy Japonia to kontynent?</string>
+    <string name="q_light">Czy światło ma prędkość?</string>
+</resources>
